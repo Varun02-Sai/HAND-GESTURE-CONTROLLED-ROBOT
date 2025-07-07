@@ -109,7 +109,7 @@ Many physically challenged individuals struggle to operate traditional controls 
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you’d like to contribute or have suggestions, feel free to open an issue or contact any of the team members.
 
